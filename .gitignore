@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# various virtualenv
+/Include
+/Lib
+/Scripts
+/share
+pyvenv.cfg
